@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Attal
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me attal_92@hotmail.com
